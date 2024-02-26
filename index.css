@@ -42,3 +42,49 @@ body {
     margin-top: 20px;
     font-size: 18px;
 }
+
+.cp-s {
+    text-align: center;
+    background-color: #add8e6;
+    height: 250px;
+    width: 800px;
+    border-radius: 50px;
+}
+
+.cp-s1 {
+    display: inline-block;
+}
+
+.palette {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    border-radius: 50%;
+    margin: 10px 20px;
+    display: inline-block;
+}
+
+.cp-1 {
+    background-color: #fefbf6;
+}
+
+.cp-2 {
+    background-color: #630000;
+}
+
+.cp-3 {
+    background-color: #000000;
+}
+
+.cp-4 {
+    background-color: #d8b6a4;
+}
+
+.mc {
+    background-color: #add8e6;
+    border-radius: 50px;
+}
+
+.mc-s {
+    margin: 10px 20px;
+}
