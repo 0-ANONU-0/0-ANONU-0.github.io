@@ -1,0 +1,44 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    height: 100vh;
+}
+
+.topic-name {
+    font-size: 3rem;
+}
+
+.topic-sub {
+    padding-right: 30rem;
+    font-size: 24px;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+.fs-pg {
+    text-align: justify;
+}
+
+.bd-fs {
+    font-size: 60px;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container p {
+    margin-top: 20px;
+    font-size: 18px;
+}
